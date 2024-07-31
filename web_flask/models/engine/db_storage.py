@@ -1,4 +1,5 @@
-torage
+#!/usr/bin/python3
+"""DB storage
 """
 import models
 from models.base_model import BaseModel, Base
